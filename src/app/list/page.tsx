@@ -5,7 +5,7 @@ import { ProductModel } from "@/models/product-model";
 import { useState } from "react";
 
 export default function EstoquePage() {
-  const [data, setData] = useState<ProductModel[]>([
+  const [data] = useState<ProductModel[]>([
     {
       id: 1,
       modelo: "iPhone 15 Pro",
