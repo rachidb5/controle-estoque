@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "modelo": "iPhone 15 Pro",
+    "capacidade": "256GB",
+    "cor": "Titânio Natural",
+    "preco": 10999.0,
+    "quantidade_estoque": 15,
+    "historico": [
+      {
+        "data": "2025-07-01T10:15:00Z",
+        "usuario": "admin",
+        "acao": "Cadastro inicial"
+      },
+      {
+        "data": "2025-07-10T09:00:00Z",
+        "usuario": "joao",
+        "acao": "Atualizou quantidade para 15"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "modelo": "iPhone 15",
+    "capacidade": "128GB",
+    "cor": "Azul",
+    "preco": 7299.0,
+    "quantidade_estoque": 25,
+    "historico": [
+      {
+        "data": "2025-07-03T14:22:00Z",
+        "usuario": "maria",
+        "acao": "Cadastro inicial"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "modelo": "iPhone 14",
+    "capacidade": "128GB",
+    "cor": "Meia-Noite",
+    "preco": 5999.0,
+    "quantidade_estoque": 30
+  },
+  {
+    "id": 4,
+    "modelo": "iPhone 13",
+    "capacidade": "256GB",
+    "cor": "Estelar",
+    "preco": 5499.0,
+    "quantidade_estoque": 10
+  },
+  {
+    "id": 5,
+    "modelo": "iPhone SE (3ª geração)",
+    "capacidade": "64GB",
+    "cor": "Product(RED)",
+    "preco": 4299.0,
+    "quantidade_estoque": 40
+  },
+  {
+    "id": 6,
+    "modelo": "iPhone 15 Pro Max",
+    "capacidade": "512GB",
+    "cor": "Titânio Azul",
+    "preco": 13299.0,
+    "quantidade_estoque": 5
+  },
+  {
+    "id": 7,
+    "modelo": "iPhone 14 Plus",
+    "capacidade": "128GB",
+    "cor": "Roxo",
+    "preco": 6599.0,
+    "quantidade_estoque": 20
+  },
+  {
+    "id": 8,
+    "modelo": "iPhone 13 Mini",
+    "capacidade": "128GB",
+    "cor": "Verde",
+    "preco": 4999.0,
+    "quantidade_estoque": 12
+  }
+]
